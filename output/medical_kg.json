@@ -1,0 +1,5637 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "type": "Disease",
+      "description": "In humans, fungal infections occur when an invading fungus takes over an area of the body and is too much for the immune system to handle. Fungi can live in the air, soil, water, and plants. There are also some fungi that live naturally in the human body. Like many microbes, there are helpful fungi and harmful fungi.",
+      "id": "Fungal infection"
+    },
+    {
+      "type": "Symptom",
+      "severity": 1,
+      "id": "itching"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "skin rash"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "nodal skin eruptions"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "dischromic  patches"
+    },
+    {
+      "type": "Disease",
+      "description": "An allergy is an immune system response to a foreign substance that's not typically harmful to your body.They can include certain foods, pollen, or pet dander. Your immune system's job is to keep you healthy by fighting harmful pathogens.",
+      "id": "Allergy"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "continuous sneezing"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "shivering"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "chills"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "watering from eyes"
+    },
+    {
+      "type": "Disease",
+      "description": "Gastroesophageal reflux disease, or GERD, is a digestive disorder that affects the lower esophageal sphincter (LES), the ring of muscle between the esophagus and stomach. Many people, including pregnant women, suffer from heartburn or acid indigestion caused by GERD.",
+      "id": "GERD"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "stomach pain"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "acidity"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "ulcers on tongue"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "vomiting"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "cough"
+    },
+    {
+      "type": "Symptom",
+      "severity": 7,
+      "id": "chest pain"
+    },
+    {
+      "type": "Disease",
+      "description": "Chronic cholestatic diseases, whether occurring in infancy, childhood or adulthood, are characterized by defective bile acid transport from the liver to the intestine, which is caused by primary damage to the biliary epithelium in most cases",
+      "id": "Chronic cholestasis"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "yellowish skin"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "nausea"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "loss of appetite"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "abdominal pain"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "yellowing of eyes"
+    },
+    {
+      "type": "Disease",
+      "description": "An adverse drug reaction (ADR) is an injury caused by taking medication. ADRs may occur following a single dose or prolonged administration of a drug or result from the combination of two or more drugs.",
+      "id": "Drug Reaction"
+    },
+    {
+      "type": "Symptom",
+      "severity": 6,
+      "id": "burning micturition"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "spotting  urination"
+    },
+    {
+      "type": "Disease",
+      "description": "Peptic ulcer disease (PUD) is a break in the inner lining of the stomach, the first part of the small intestine, or sometimes the lower esophagus. An ulcer in the stomach is called a gastric ulcer, while one in the first part of the intestines is a duodenal ulcer.",
+      "id": "Peptic ulcer diseae"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "passage of gases"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "internal itching"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "indigestion"
+    },
+    {
+      "type": "Disease",
+      "description": "Acquired immunodeficiency syndrome (AIDS) is a chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV). By damaging your immune system, HIV interferes with your body's ability to fight infection and disease.",
+      "id": "AIDS"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "muscle wasting"
+    },
+    {
+      "type": "Symptom",
+      "severity": 6,
+      "id": "patches in throat"
+    },
+    {
+      "type": "Symptom",
+      "severity": 7,
+      "id": "high fever"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "extra marital contacts"
+    },
+    {
+      "type": "Disease",
+      "description": "Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy.",
+      "id": "Diabetes"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "fatigue"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "weight loss"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "restlessness"
+    },
+    {
+      "type": "Symptom",
+      "severity": 2,
+      "id": "lethargy"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "irregular sugar level"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "blurred and distorted vision"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "obesity"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "excessive hunger"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "increased appetite"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "polyuria"
+    },
+    {
+      "type": "Disease",
+      "description": "Gastroenteritis is an inflammation of the digestive tract, particularly the stomach, and large and small intestines. Viral and bacterial gastroenteritis are intestinal infections associated with symptoms of diarrhea , abdominal cramps, nausea , and vomiting .",
+      "id": "Gastroenteritis"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "sunken eyes"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "dehydration"
+    },
+    {
+      "type": "Symptom",
+      "severity": 6,
+      "id": "diarrhoea"
+    },
+    {
+      "type": "Disease",
+      "description": "Bronchial asthma is a medical condition which causes the airway path of the lungs to swell and narrow. Due to this swelling, the air path produces excess mucus making it hard to breathe, which results in coughing, short breath, and wheezing. The disease is chronic and interferes with daily working.",
+      "id": "Bronchial Asthma"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "breathlessness"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "family history"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "mucoid sputum"
+    },
+    {
+      "type": "Disease",
+      "description": "Hypertension (HTN or HT), also known as high blood pressure (HBP), is a long-term medical condition in which the blood pressure in the arteries is persistently elevated. High blood pressure typically does not cause symptoms.",
+      "id": "Hypertension"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "headache"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "dizziness"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "loss of balance"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "lack of concentration"
+    },
+    {
+      "type": "Disease",
+      "description": "A migraine can cause severe throbbing pain or a pulsing sensation, usually on one side of the head. It's often accompanied by nausea, vomiting, and extreme sensitivity to light and sound. Migraine attacks can last for hours to days, and the pain can be so severe that it interferes with your daily activities.",
+      "id": "Migraine"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "stiff neck"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "depression"
+    },
+    {
+      "type": "Symptom",
+      "severity": 2,
+      "id": "irritability"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "visual disturbances"
+    },
+    {
+      "type": "Disease",
+      "description": "Cervical spondylosis is a general term for age-related wear and tear affecting the spinal disks in your neck. As the disks dehydrate and shrink, signs of osteoarthritis develop, including bony projections along the edges of bones (bone spurs).",
+      "id": "Cervical spondylosis"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "back pain"
+    },
+    {
+      "type": "Symptom",
+      "severity": 7,
+      "id": "weakness in limbs"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "neck pain"
+    },
+    {
+      "type": "Disease",
+      "description": "Intracerebral hemorrhage (ICH) is when blood suddenly bursts into brain tissue, causing damage to your brain. Symptoms usually appear suddenly during ICH. They include headache, weakness, confusion, and paralysis, particularly on one side of your body.",
+      "id": "Paralysis (brain hemorrhage)"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "weakness of one body side"
+    },
+    {
+      "type": "Symptom",
+      "severity": 2,
+      "id": "altered sensorium"
+    },
+    {
+      "type": "Disease",
+      "description": "Yellow staining of the skin and sclerae (the whites of the eyes) by abnormally high blood levels of the bile pigment bilirubin. The yellowing extends to other tissues and body fluids. Jaundice was once called the \"morbus regius\" (the regal disease) in the belief that only the touch of a king could cure it",
+      "id": "Jaundice"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "dark urine"
+    },
+    {
+      "type": "Disease",
+      "description": "An infectious disease caused by protozoan parasites from the Plasmodium family that can be transmitted by the bite of the Anopheles mosquito or by a contaminated needle or transfusion. Falciparum malaria is the most deadly type.",
+      "id": "Malaria"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "sweating"
+    },
+    {
+      "type": "Symptom",
+      "severity": 2,
+      "id": "muscle pain"
+    },
+    {
+      "type": "Disease",
+      "description": "Chickenpox is a highly contagious disease caused by the varicella-zoster virus (VZV). It can cause an itchy, blister-like rash. The rash first appears on the chest, back, and face, and then spreads over the entire body, causing between 250 and 500 itchy blisters.",
+      "id": "Chicken pox"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "mild fever"
+    },
+    {
+      "type": "Symptom",
+      "severity": 6,
+      "id": "swelled lymph nodes"
+    },
+    {
+      "type": "Symptom",
+      "severity": 6,
+      "id": "malaise"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "red spots over body"
+    },
+    {
+      "type": "Disease",
+      "description": "an acute infectious disease caused by a flavivirus (species Dengue virus of the genus Flavivirus), transmitted by aedes mosquitoes, and characterized by headache, severe joint pain, and a rash. \u2014 called also breakbone fever, dengue fever.",
+      "id": "Dengue"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "joint pain"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "pain behind the eyes"
+    },
+    {
+      "type": "Disease",
+      "description": "An acute illness characterized by fever caused by infection with the bacterium Salmonella typhi. Typhoid fever has an insidious onset, with fever, headache, constipation, malaise, chills, and muscle pain. Diarrhea is uncommon, and vomiting is not usually severe.",
+      "id": "Typhoid"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "constipation"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "toxic look (typhos)"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "belly pain"
+    },
+    {
+      "type": "Disease",
+      "description": "Hepatitis A is a highly contagious liver infection caused by the hepatitis A virus. The virus is one of several types of hepatitis viruses that cause inflammation and affect your liver's ability to function.",
+      "id": "hepatitis A"
+    },
+    {
+      "type": "Disease",
+      "description": "Hepatitis B is an infection of your liver. It can cause scarring of the organ, liver failure, and cancer. It can be fatal if it isn't treated. It's spread when people come in contact with the blood, open sores, or body fluids of someone who has the hepatitis B virus.",
+      "id": "Hepatitis B"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "yellow urine"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "receiving blood transfusion"
+    },
+    {
+      "type": "Symptom",
+      "severity": 2,
+      "id": "receiving unsterile injections"
+    },
+    {
+      "type": "Disease",
+      "description": "Inflammation of the liver due to the hepatitis C virus (HCV), which is usually spread via blood transfusion (rare), hemodialysis, and needle sticks. The damage hepatitis C does to the liver can lead to cirrhosis and its complications as well as cancer.",
+      "id": "Hepatitis C"
+    },
+    {
+      "type": "Disease",
+      "description": "Hepatitis D, also known as the hepatitis delta virus, is an infection that causes the liver to become inflamed. This swelling can impair liver function and cause long-term liver problems, including liver scarring and cancer. The condition is caused by the hepatitis D virus (HDV).",
+      "id": "Hepatitis D"
+    },
+    {
+      "type": "Disease",
+      "description": "A rare form of liver inflammation caused by infection with the hepatitis E virus (HEV). It is transmitted via food or drink handled by an infected person or through infected water supplies in areas where fecal matter may get into the water. Hepatitis E does not cause chronic liver disease.",
+      "id": "Hepatitis E"
+    },
+    {
+      "type": "Symptom",
+      "severity": 7,
+      "id": "coma"
+    },
+    {
+      "type": "Symptom",
+      "severity": 6,
+      "id": "stomach bleeding"
+    },
+    {
+      "type": "Symptom",
+      "severity": 6,
+      "id": "acute liver failure"
+    },
+    {
+      "type": "Disease",
+      "description": "Alcoholic hepatitis is a diseased, inflammatory condition of the liver caused by heavy alcohol consumption over an extended period of time. It's also aggravated by binge drinking and ongoing alcohol use. If you develop this condition, you must stop drinking alcohol",
+      "id": "Alcoholic hepatitis"
+    },
+    {
+      "type": "Symptom",
+      "severity": 7,
+      "id": "swelling of stomach"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "distention of abdomen"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "history of alcohol consumption"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "fluid overload"
+    },
+    {
+      "type": "Disease",
+      "description": "Tuberculosis (TB) is an infectious disease usually caused by Mycobacterium tuberculosis (MTB) bacteria. Tuberculosis generally affects the lungs, but can also affect other parts of the body. Most infections show no symptoms, in which case it is known as latent tuberculosis.",
+      "id": "Tuberculosis"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "phlegm"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "blood in sputum"
+    },
+    {
+      "type": "Disease",
+      "description": "The common cold is a viral infection of your nose and throat (upper respiratory tract). It's usually harmless, although it might not feel that way. Many types of viruses can cause a common cold.",
+      "id": "Common Cold"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "throat irritation"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "redness of eyes"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "sinus pressure"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "runny nose"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "congestion"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "loss of smell"
+    },
+    {
+      "type": "Disease",
+      "description": "Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. The infection causes inflammation in the air sacs in your lungs, which are called alveoli. The alveoli fill with fluid or pus, making it difficult to breathe.",
+      "id": "Pneumonia"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "fast heart rate"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "rusty sputum"
+    },
+    {
+      "type": "Disease",
+      "description": "",
+      "id": "Dimorphic hemmorhoids(piles)"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "pain during bowel movements"
+    },
+    {
+      "type": "Symptom",
+      "severity": 6,
+      "id": "pain in anal region"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "bloody stool"
+    },
+    {
+      "type": "Symptom",
+      "severity": 6,
+      "id": "irritation in anus"
+    },
+    {
+      "type": "Disease",
+      "description": "The death of heart muscle due to the loss of blood supply. The loss of blood supply is usually caused by a complete blockage of a coronary artery, one of the arteries that supplies blood to the heart muscle.",
+      "id": "Heart attack"
+    },
+    {
+      "type": "Disease",
+      "description": "A vein that has enlarged and twisted, often appearing as a bulging, blue blood vessel that is clearly visible through the skin. Varicose veins are most common in older adults, particularly women, and occur especially on the legs.",
+      "id": "Varicose veins"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "cramps"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "bruising"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "swollen legs"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "swollen blood vessels"
+    },
+    {
+      "type": "Symptom",
+      "severity": 6,
+      "id": "prominent veins on calf"
+    },
+    {
+      "type": "Disease",
+      "description": "Hypothyroidism, also called underactive thyroid or low thyroid, is a disorder of the endocrine system in which the thyroid gland does not produce enough thyroid hormone.",
+      "id": "Hypothyroidism"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "weight gain"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "cold hands and feets"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "mood swings"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "puffy face and eyes"
+    },
+    {
+      "type": "Symptom",
+      "severity": 6,
+      "id": "enlarged thyroid"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "brittle nails"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "swollen extremeties"
+    },
+    {
+      "type": "Symptom",
+      "severity": 6,
+      "id": "abnormal menstruation"
+    },
+    {
+      "type": "Disease",
+      "description": "Hyperthyroidism (overactive thyroid) occurs when your thyroid gland produces too much of the hormone thyroxine. Hyperthyroidism can accelerate your body's metabolism, causing unintentional weight loss and a rapid or irregular heartbeat.",
+      "id": "Hyperthyroidism"
+    },
+    {
+      "type": "Symptom",
+      "severity": 2,
+      "id": "muscle weakness"
+    },
+    {
+      "type": "Disease",
+      "description": " Hypoglycemia is a condition in which your blood sugar (glucose) level is lower than normal. Glucose is your body's main energy source. Hypoglycemia is often related to diabetes treatment. But other drugs and a variety of conditions \u2014 many rare \u2014 can cause low blood sugar in people who don't have diabetes.",
+      "id": "Hypoglycemia"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "anxiety"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "slurred speech"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "palpitations"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "drying and tingling lips"
+    },
+    {
+      "type": "Disease",
+      "description": "Osteoarthritis is the most common form of arthritis, affecting millions of people worldwide. It occurs when the protective cartilage that cushions the ends of your bones wears down over time.",
+      "id": "Osteoarthristis"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "knee pain"
+    },
+    {
+      "type": "Symptom",
+      "severity": 2,
+      "id": "hip joint pain"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "swelling joints"
+    },
+    {
+      "type": "Symptom",
+      "severity": 2,
+      "id": "painful walking"
+    },
+    {
+      "type": "Disease",
+      "description": "Arthritis is the swelling and tenderness of one or more of your joints. The main symptoms of arthritis are joint pain and stiffness, which typically worsen with age. The most common types of arthritis are osteoarthritis and rheumatoid arthritis.",
+      "id": "Arthritis"
+    },
+    {
+      "type": "Symptom",
+      "severity": 5,
+      "id": "movement stiffness"
+    },
+    {
+      "type": "Disease",
+      "description": "Benign paroxysmal positional vertigo (BPPV) is one of the most common causes of vertigo \u2014 the sudden sensation that you're spinning or that the inside of your head is spinning. Benign paroxysmal positional vertigo causes brief episodes of mild to intense dizziness.",
+      "id": "(vertigo) Paroymsal  Positional Vertigo"
+    },
+    {
+      "type": "Symptom",
+      "severity": 6,
+      "id": "spinning movements"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "unsteadiness"
+    },
+    {
+      "type": "Disease",
+      "description": "Acne vulgaris is the formation of comedones, papules, pustules, nodules, and/or cysts as a result of obstruction and inflammation of pilosebaceous units (hair follicles and their accompanying sebaceous gland). Acne develops on the face and upper trunk. It most often affects adolescents.",
+      "id": "Acne"
+    },
+    {
+      "type": "Symptom",
+      "severity": 2,
+      "id": "pus filled pimples"
+    },
+    {
+      "type": "Symptom",
+      "severity": 2,
+      "id": "blackheads"
+    },
+    {
+      "type": "Symptom",
+      "severity": 2,
+      "id": "scurring"
+    },
+    {
+      "type": "Disease",
+      "description": "Urinary tract infection: An infection of the kidney, ureter, bladder, or urethra. Abbreviated UTI. Not everyone with a UTI has symptoms, but common symptoms include a frequent urge to urinate and pain or burning when urinating.",
+      "id": "Urinary tract infection"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "bladder discomfort"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "foul smell of urine"
+    },
+    {
+      "type": "Symptom",
+      "severity": 6,
+      "id": "continuous feel of urine"
+    },
+    {
+      "type": "Disease",
+      "description": "Psoriasis is a common skin disorder that forms thick, red, bumpy patches covered with silvery scales. They can pop up anywhere, but most appear on the scalp, elbows, knees, and lower back. Psoriasis can't be passed from person to person. It does sometimes happen in members of the same family.",
+      "id": "Psoriasis"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "skin peeling"
+    },
+    {
+      "type": "Symptom",
+      "severity": 2,
+      "id": "silver like dusting"
+    },
+    {
+      "type": "Symptom",
+      "severity": 2,
+      "id": "small dents in nails"
+    },
+    {
+      "type": "Symptom",
+      "severity": 2,
+      "id": "inflammatory nails"
+    },
+    {
+      "type": "Disease",
+      "description": "Impetigo (im-puh-TIE-go) is a common and highly contagious skin infection that mainly affects infants and children. Impetigo usually appears as red sores on the face, especially around a child's nose and mouth, and on hands and feet. The sores burst and develop honey-colored crusts.",
+      "id": "Impetigo"
+    },
+    {
+      "type": "Symptom",
+      "severity": 4,
+      "id": "blister"
+    },
+    {
+      "type": "Symptom",
+      "severity": 2,
+      "id": "red sore around nose"
+    },
+    {
+      "type": "Symptom",
+      "severity": 3,
+      "id": "yellow crust ooze"
+    },
+    {
+      "type": "Precaution",
+      "id": "Precaution_1"
+    },
+    {
+      "id": "Disease"
+    },
+    {
+      "type": "Precaution",
+      "id": "Precaution_2"
+    },
+    {
+      "type": "Precaution",
+      "id": "Precaution_3"
+    },
+    {
+      "type": "Precaution",
+      "id": "Precaution_4"
+    },
+    {
+      "type": "Precaution",
+      "id": "stop irritation"
+    },
+    {
+      "type": "Precaution",
+      "id": "consult nearest hospital"
+    },
+    {
+      "type": "Precaution",
+      "id": "stop taking drug"
+    },
+    {
+      "type": "Precaution",
+      "id": "follow up"
+    },
+    {
+      "type": "Precaution",
+      "id": "Consult nearest hospital"
+    },
+    {
+      "type": "Precaution",
+      "id": "avoid oily food"
+    },
+    {
+      "type": "Precaution",
+      "id": "avoid non veg food"
+    },
+    {
+      "type": "Precaution",
+      "id": "keep mosquitos out"
+    },
+    {
+      "type": "Precaution",
+      "id": "apply calamine"
+    },
+    {
+      "type": "Precaution",
+      "id": "cover area with bandage"
+    },
+    {
+      "type": "Precaution",
+      "id": "use ice to compress itching"
+    },
+    {
+      "type": "Precaution",
+      "id": "reduce stress"
+    },
+    {
+      "type": "Precaution",
+      "id": "exercise"
+    },
+    {
+      "type": "Precaution",
+      "id": "eat healthy"
+    },
+    {
+      "type": "Precaution",
+      "id": "get proper sleep"
+    },
+    {
+      "type": "Precaution",
+      "id": "wash hands with warm soapy water"
+    },
+    {
+      "type": "Precaution",
+      "id": "stop bleeding using pressure"
+    },
+    {
+      "type": "Precaution",
+      "id": "consult doctor"
+    },
+    {
+      "type": "Precaution",
+      "id": "salt baths"
+    },
+    {
+      "type": "Precaution",
+      "id": "avoid fatty spicy food"
+    },
+    {
+      "type": "Precaution",
+      "id": "avoid lying down after eating"
+    },
+    {
+      "type": "Precaution",
+      "id": "maintain healthy weight"
+    },
+    {
+      "type": "Precaution",
+      "id": "cold baths"
+    },
+    {
+      "type": "Precaution",
+      "id": "anti itch medicine"
+    },
+    {
+      "type": "Precaution",
+      "id": "wash hands through"
+    },
+    {
+      "type": "Precaution",
+      "id": "medication"
+    },
+    {
+      "type": "Precaution",
+      "id": "acetaminophen"
+    },
+    {
+      "type": "Precaution",
+      "id": "lie down"
+    },
+    {
+      "type": "Precaution",
+      "id": "avoid sudden change in body"
+    },
+    {
+      "type": "Precaution",
+      "id": "avoid abrupt head movment"
+    },
+    {
+      "type": "Precaution",
+      "id": "relax"
+    },
+    {
+      "type": "Precaution",
+      "id": "lie down on side"
+    },
+    {
+      "type": "Precaution",
+      "id": "check in pulse"
+    },
+    {
+      "type": "Precaution",
+      "id": "drink sugary drinks"
+    },
+    {
+      "type": "Precaution",
+      "id": "bath twice"
+    },
+    {
+      "type": "Precaution",
+      "id": "drink plenty of water"
+    },
+    {
+      "type": "Precaution",
+      "id": "avoid too many products"
+    },
+    {
+      "type": "Precaution",
+      "id": "have balanced diet"
+    },
+    {
+      "type": "Precaution",
+      "id": "soak affected area in warm water"
+    },
+    {
+      "type": "Precaution",
+      "id": "use antibiotics"
+    },
+    {
+      "type": "Precaution",
+      "id": "remove scabs with wet compressed cloth"
+    },
+    {
+      "type": "Precaution",
+      "id": "meditation"
+    },
+    {
+      "type": "Precaution",
+      "id": "consume probiotic food"
+    },
+    {
+      "type": "Precaution",
+      "id": "eliminate milk"
+    },
+    {
+      "type": "Precaution",
+      "id": "limit alcohol"
+    },
+    {
+      "type": "Precaution",
+      "id": "consume witch hazel"
+    },
+    {
+      "type": "Precaution",
+      "id": "warm bath with epsom salt"
+    },
+    {
+      "type": "Precaution",
+      "id": "consume alovera juice"
+    },
+    {
+      "type": "Precaution",
+      "id": "drink vitamin c rich drinks"
+    },
+    {
+      "type": "Precaution",
+      "id": "take vapour"
+    },
+    {
+      "type": "Precaution",
+      "id": "avoid cold food"
+    },
+    {
+      "type": "Precaution",
+      "id": "keep fever in check"
+    },
+    {
+      "type": "Precaution",
+      "id": "use neem in bathing"
+    },
+    {
+      "type": "Precaution",
+      "id": "consume neem leaves"
+    },
+    {
+      "type": "Precaution",
+      "id": "take vaccine"
+    },
+    {
+      "type": "Precaution",
+      "id": "avoid public places"
+    },
+    {
+      "type": "Precaution",
+      "id": "use heating pad or cold pack"
+    },
+    {
+      "type": "Precaution",
+      "id": "take otc pain reliver"
+    },
+    {
+      "type": "Precaution",
+      "id": "massage"
+    },
+    {
+      "type": "Precaution",
+      "id": "use lemon balm"
+    },
+    {
+      "type": "Precaution",
+      "id": "take radioactive iodine treatment"
+    },
+    {
+      "type": "Precaution",
+      "id": "increase vitamin c intake"
+    },
+    {
+      "type": "Precaution",
+      "id": "drink cranberry juice"
+    },
+    {
+      "type": "Precaution",
+      "id": "take probiotics"
+    },
+    {
+      "type": "Precaution",
+      "id": "lie down flat and raise the leg high"
+    },
+    {
+      "type": "Precaution",
+      "id": "use oinments"
+    },
+    {
+      "type": "Precaution",
+      "id": "use vein compression"
+    },
+    {
+      "type": "Precaution",
+      "id": "dont stand still for long"
+    },
+    {
+      "type": "Precaution",
+      "id": "avoid open cuts"
+    },
+    {
+      "type": "Precaution",
+      "id": "wear ppe if possible"
+    },
+    {
+      "type": "Precaution",
+      "id": "eat high calorie vegitables"
+    },
+    {
+      "type": "Precaution",
+      "id": "antiboitic therapy"
+    },
+    {
+      "type": "Precaution",
+      "id": "vaccination"
+    },
+    {
+      "type": "Precaution",
+      "id": "use detol or neem in bathing water"
+    },
+    {
+      "type": "Precaution",
+      "id": "keep infected area dry"
+    },
+    {
+      "type": "Precaution",
+      "id": "use clean cloths"
+    },
+    {
+      "type": "Precaution",
+      "id": "use poloroid glasses in sun"
+    },
+    {
+      "type": "Precaution",
+      "id": "switch to loose cloothing"
+    },
+    {
+      "type": "Precaution",
+      "id": "take deep breaths"
+    },
+    {
+      "type": "Precaution",
+      "id": "get away from trigger"
+    },
+    {
+      "type": "Precaution",
+      "id": "seek help"
+    },
+    {
+      "type": "Precaution",
+      "id": "stop alcohol consumption"
+    },
+    {
+      "type": "Precaution",
+      "id": "consume milk thistle"
+    },
+    {
+      "type": "Precaution",
+      "id": "eat fruits and high fiberous food"
+    },
+    {
+      "type": "Precaution",
+      "id": "rest"
+    },
+    {
+      "type": "Precaution",
+      "id": "drink papaya leaf juice"
+    },
+    {
+      "type": "Precaution",
+      "id": "keep mosquitos away"
+    },
+    {
+      "type": "Precaution",
+      "id": "keep hydrated"
+    },
+    {
+      "type": "Precaution",
+      "id": "call ambulance"
+    },
+    {
+      "type": "Precaution",
+      "id": "chew or swallow asprin"
+    },
+    {
+      "type": "Precaution",
+      "id": "keep calm"
+    },
+    {
+      "type": "Precaution",
+      "id": "use hot and cold therapy"
+    },
+    {
+      "type": "Precaution",
+      "id": "try acupuncture"
+    },
+    {
+      "type": "Precaution",
+      "id": "stop eating solid food for while"
+    },
+    {
+      "type": "Precaution",
+      "id": "try taking small sips of water"
+    },
+    {
+      "type": "Precaution",
+      "id": "ease back into eating"
+    },
+    {
+      "type": "Precaution",
+      "id": "cover mouth"
+    }
+  ],
+  "edges": [
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 1,
+      "source": "Fungal infection",
+      "target": "itching"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Fungal infection",
+      "target": "skin rash"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Fungal infection",
+      "target": "nodal skin eruptions"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Fungal infection",
+      "target": "dischromic  patches"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Fungal infection",
+      "target": "bath twice"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Fungal infection",
+      "target": "use detol or neem in bathing water"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Fungal infection",
+      "target": "keep infected area dry"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Fungal infection",
+      "target": "use clean cloths"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "itching",
+      "target": "Fungal infection"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "itching",
+      "target": "Chronic cholestasis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "itching",
+      "target": "Drug Reaction"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "itching",
+      "target": "Jaundice"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "itching",
+      "target": "Chicken pox"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "itching",
+      "target": "Hepatitis B"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "skin rash",
+      "target": "Fungal infection"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "skin rash",
+      "target": "Drug Reaction"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "skin rash",
+      "target": "Chicken pox"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "skin rash",
+      "target": "Dengue"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "skin rash",
+      "target": "Acne"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "skin rash",
+      "target": "Psoriasis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "skin rash",
+      "target": "Impetigo"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "nodal skin eruptions",
+      "target": "Fungal infection"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "dischromic  patches",
+      "target": "Fungal infection"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Allergy",
+      "target": "continuous sneezing"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Allergy",
+      "target": "shivering"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Allergy",
+      "target": "chills"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Allergy",
+      "target": "watering from eyes"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Allergy",
+      "target": "apply calamine"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Allergy",
+      "target": "cover area with bandage"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Allergy",
+      "target": "use ice to compress itching"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "continuous sneezing",
+      "target": "Allergy"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "continuous sneezing",
+      "target": "Common Cold"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "shivering",
+      "target": "Allergy"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "chills",
+      "target": "Allergy"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "chills",
+      "target": "Malaria"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "chills",
+      "target": "Dengue"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "chills",
+      "target": "Typhoid"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "chills",
+      "target": "Tuberculosis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "chills",
+      "target": "Common Cold"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "chills",
+      "target": "Pneumonia"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "watering from eyes",
+      "target": "Allergy"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "GERD",
+      "target": "stomach pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "GERD",
+      "target": "acidity"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "GERD",
+      "target": "ulcers on tongue"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "GERD",
+      "target": "vomiting"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "GERD",
+      "target": "cough"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 7,
+      "source": "GERD",
+      "target": "chest pain"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "GERD",
+      "target": "avoid fatty spicy food"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "GERD",
+      "target": "avoid lying down after eating"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "GERD",
+      "target": "maintain healthy weight"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "GERD",
+      "target": "exercise"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "stomach pain",
+      "target": "GERD"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "stomach pain",
+      "target": "Drug Reaction"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "acidity",
+      "target": "GERD"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "acidity",
+      "target": "Migraine"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "ulcers on tongue",
+      "target": "GERD"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "vomiting",
+      "target": "GERD"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "vomiting",
+      "target": "Chronic cholestasis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "vomiting",
+      "target": "Peptic ulcer diseae"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "vomiting",
+      "target": "Gastroenteritis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "vomiting",
+      "target": "Paralysis (brain hemorrhage)"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "vomiting",
+      "target": "Jaundice"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "vomiting",
+      "target": "Malaria"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "vomiting",
+      "target": "Dengue"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "vomiting",
+      "target": "Typhoid"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "vomiting",
+      "target": "hepatitis A"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "vomiting",
+      "target": "Hepatitis D"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "vomiting",
+      "target": "Hepatitis E"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "vomiting",
+      "target": "Alcoholic hepatitis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "vomiting",
+      "target": "Tuberculosis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "vomiting",
+      "target": "Heart attack"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "vomiting",
+      "target": "Hypoglycemia"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "vomiting",
+      "target": "(vertigo) Paroymsal  Positional Vertigo"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "cough",
+      "target": "GERD"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "cough",
+      "target": "Bronchial Asthma"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "cough",
+      "target": "Tuberculosis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "cough",
+      "target": "Common Cold"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "cough",
+      "target": "Pneumonia"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "chest pain",
+      "target": "GERD"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "chest pain",
+      "target": "Hypertension"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "chest pain",
+      "target": "Tuberculosis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "chest pain",
+      "target": "Common Cold"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "chest pain",
+      "target": "Pneumonia"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "chest pain",
+      "target": "Heart attack"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 1,
+      "source": "Chronic cholestasis",
+      "target": "itching"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Chronic cholestasis",
+      "target": "vomiting"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Chronic cholestasis",
+      "target": "yellowish skin"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Chronic cholestasis",
+      "target": "nausea"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Chronic cholestasis",
+      "target": "loss of appetite"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Chronic cholestasis",
+      "target": "abdominal pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Chronic cholestasis",
+      "target": "yellowing of eyes"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Chronic cholestasis",
+      "target": "cold baths"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Chronic cholestasis",
+      "target": "anti itch medicine"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Chronic cholestasis",
+      "target": "consult doctor"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Chronic cholestasis",
+      "target": "eat healthy"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "yellowish skin",
+      "target": "Chronic cholestasis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "yellowish skin",
+      "target": "Jaundice"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "yellowish skin",
+      "target": "hepatitis A"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "yellowish skin",
+      "target": "Hepatitis B"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "yellowish skin",
+      "target": "Hepatitis C"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "yellowish skin",
+      "target": "Hepatitis D"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "yellowish skin",
+      "target": "Hepatitis E"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "yellowish skin",
+      "target": "Alcoholic hepatitis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "nausea",
+      "target": "Chronic cholestasis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "nausea",
+      "target": "Malaria"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "nausea",
+      "target": "Dengue"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "nausea",
+      "target": "Typhoid"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "nausea",
+      "target": "hepatitis A"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "nausea",
+      "target": "Hepatitis C"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "nausea",
+      "target": "Hepatitis D"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "nausea",
+      "target": "Hepatitis E"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "nausea",
+      "target": "Hypoglycemia"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "nausea",
+      "target": "(vertigo) Paroymsal  Positional Vertigo"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "loss of appetite",
+      "target": "Chronic cholestasis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "loss of appetite",
+      "target": "Peptic ulcer diseae"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "loss of appetite",
+      "target": "Chicken pox"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "loss of appetite",
+      "target": "Dengue"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "loss of appetite",
+      "target": "hepatitis A"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "loss of appetite",
+      "target": "Hepatitis B"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "loss of appetite",
+      "target": "Hepatitis C"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "loss of appetite",
+      "target": "Hepatitis D"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "loss of appetite",
+      "target": "Hepatitis E"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "loss of appetite",
+      "target": "Tuberculosis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "abdominal pain",
+      "target": "Chronic cholestasis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "abdominal pain",
+      "target": "Peptic ulcer diseae"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "abdominal pain",
+      "target": "Jaundice"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "abdominal pain",
+      "target": "Typhoid"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "abdominal pain",
+      "target": "hepatitis A"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "abdominal pain",
+      "target": "Hepatitis B"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "abdominal pain",
+      "target": "Hepatitis D"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "abdominal pain",
+      "target": "Hepatitis E"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "abdominal pain",
+      "target": "Alcoholic hepatitis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "yellowing of eyes",
+      "target": "Chronic cholestasis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "yellowing of eyes",
+      "target": "hepatitis A"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "yellowing of eyes",
+      "target": "Hepatitis B"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "yellowing of eyes",
+      "target": "Hepatitis C"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "yellowing of eyes",
+      "target": "Hepatitis D"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "yellowing of eyes",
+      "target": "Hepatitis E"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "yellowing of eyes",
+      "target": "Tuberculosis"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 1,
+      "source": "Drug Reaction",
+      "target": "itching"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Drug Reaction",
+      "target": "skin rash"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Drug Reaction",
+      "target": "stomach pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Drug Reaction",
+      "target": "burning micturition"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Drug Reaction",
+      "target": "spotting  urination"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Drug Reaction",
+      "target": "stop irritation"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Drug Reaction",
+      "target": "consult nearest hospital"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Drug Reaction",
+      "target": "stop taking drug"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Drug Reaction",
+      "target": "follow up"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "burning micturition",
+      "target": "Drug Reaction"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "burning micturition",
+      "target": "Urinary tract infection"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "spotting  urination",
+      "target": "Drug Reaction"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Peptic ulcer diseae",
+      "target": "vomiting"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Peptic ulcer diseae",
+      "target": "loss of appetite"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Peptic ulcer diseae",
+      "target": "abdominal pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Peptic ulcer diseae",
+      "target": "passage of gases"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Peptic ulcer diseae",
+      "target": "internal itching"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Peptic ulcer diseae",
+      "target": "indigestion"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Peptic ulcer diseae",
+      "target": "avoid fatty spicy food"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Peptic ulcer diseae",
+      "target": "consume probiotic food"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Peptic ulcer diseae",
+      "target": "eliminate milk"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Peptic ulcer diseae",
+      "target": "limit alcohol"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "passage of gases",
+      "target": "Peptic ulcer diseae"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "internal itching",
+      "target": "Peptic ulcer diseae"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "indigestion",
+      "target": "Peptic ulcer diseae"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "indigestion",
+      "target": "Migraine"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "AIDS",
+      "target": "muscle wasting"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "AIDS",
+      "target": "patches in throat"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 7,
+      "source": "AIDS",
+      "target": "high fever"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "AIDS",
+      "target": "extra marital contacts"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "AIDS",
+      "target": "avoid open cuts"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "AIDS",
+      "target": "wear ppe if possible"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "AIDS",
+      "target": "consult doctor"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "AIDS",
+      "target": "follow up"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "muscle wasting",
+      "target": "AIDS"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "patches in throat",
+      "target": "AIDS"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "high fever",
+      "target": "AIDS"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "high fever",
+      "target": "Bronchial Asthma"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "high fever",
+      "target": "Jaundice"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "high fever",
+      "target": "Malaria"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "high fever",
+      "target": "Chicken pox"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "high fever",
+      "target": "Dengue"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "high fever",
+      "target": "Typhoid"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "high fever",
+      "target": "Hepatitis E"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "high fever",
+      "target": "Tuberculosis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "high fever",
+      "target": "Common Cold"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "high fever",
+      "target": "Pneumonia"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "high fever",
+      "target": "Impetigo"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "extra marital contacts",
+      "target": "AIDS"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Diabetes",
+      "target": "fatigue"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Diabetes",
+      "target": "weight loss"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Diabetes",
+      "target": "restlessness"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Diabetes",
+      "target": "lethargy"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Diabetes",
+      "target": "irregular sugar level"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Diabetes",
+      "target": "blurred and distorted vision"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Diabetes",
+      "target": "obesity"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Diabetes",
+      "target": "excessive hunger"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Diabetes",
+      "target": "increased appetite"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Diabetes",
+      "target": "polyuria"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Diabetes",
+      "target": "have balanced diet"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Diabetes",
+      "target": "exercise"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Diabetes",
+      "target": "consult doctor"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Diabetes",
+      "target": "follow up"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "fatigue",
+      "target": "Diabetes"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "fatigue",
+      "target": "Bronchial Asthma"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "fatigue",
+      "target": "Jaundice"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "fatigue",
+      "target": "Chicken pox"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "fatigue",
+      "target": "Dengue"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "fatigue",
+      "target": "Typhoid"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "fatigue",
+      "target": "Hepatitis B"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "fatigue",
+      "target": "Hepatitis C"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "fatigue",
+      "target": "Hepatitis D"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "fatigue",
+      "target": "Hepatitis E"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "fatigue",
+      "target": "Tuberculosis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "fatigue",
+      "target": "Common Cold"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "fatigue",
+      "target": "Pneumonia"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "fatigue",
+      "target": "Varicose veins"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "fatigue",
+      "target": "Hypothyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "fatigue",
+      "target": "Hyperthyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "fatigue",
+      "target": "Hypoglycemia"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "weight loss",
+      "target": "Diabetes"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "weight loss",
+      "target": "Jaundice"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "weight loss",
+      "target": "Tuberculosis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "weight loss",
+      "target": "Hyperthyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "restlessness",
+      "target": "Diabetes"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "restlessness",
+      "target": "Hyperthyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "lethargy",
+      "target": "Diabetes"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "lethargy",
+      "target": "Chicken pox"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "lethargy",
+      "target": "Hepatitis B"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "lethargy",
+      "target": "Hypothyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "irregular sugar level",
+      "target": "Diabetes"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "blurred and distorted vision",
+      "target": "Diabetes"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "blurred and distorted vision",
+      "target": "Migraine"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "blurred and distorted vision",
+      "target": "Hypoglycemia"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "obesity",
+      "target": "Diabetes"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "obesity",
+      "target": "Varicose veins"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "excessive hunger",
+      "target": "Diabetes"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "excessive hunger",
+      "target": "Migraine"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "excessive hunger",
+      "target": "Hyperthyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "excessive hunger",
+      "target": "Hypoglycemia"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "increased appetite",
+      "target": "Diabetes"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "polyuria",
+      "target": "Diabetes"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Gastroenteritis",
+      "target": "vomiting"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Gastroenteritis",
+      "target": "sunken eyes"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Gastroenteritis",
+      "target": "dehydration"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Gastroenteritis",
+      "target": "diarrhoea"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Gastroenteritis",
+      "target": "stop eating solid food for while"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Gastroenteritis",
+      "target": "try taking small sips of water"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Gastroenteritis",
+      "target": "rest"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Gastroenteritis",
+      "target": "ease back into eating"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "sunken eyes",
+      "target": "Gastroenteritis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "dehydration",
+      "target": "Gastroenteritis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "diarrhoea",
+      "target": "Gastroenteritis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "diarrhoea",
+      "target": "Malaria"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "diarrhoea",
+      "target": "Typhoid"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "diarrhoea",
+      "target": "hepatitis A"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "diarrhoea",
+      "target": "Hyperthyroidism"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Bronchial Asthma",
+      "target": "fatigue"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Bronchial Asthma",
+      "target": "cough"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 7,
+      "source": "Bronchial Asthma",
+      "target": "high fever"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Bronchial Asthma",
+      "target": "breathlessness"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Bronchial Asthma",
+      "target": "family history"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Bronchial Asthma",
+      "target": "mucoid sputum"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Bronchial Asthma",
+      "target": "switch to loose cloothing"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Bronchial Asthma",
+      "target": "take deep breaths"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Bronchial Asthma",
+      "target": "get away from trigger"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Bronchial Asthma",
+      "target": "seek help"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "breathlessness",
+      "target": "Bronchial Asthma"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "breathlessness",
+      "target": "Tuberculosis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "breathlessness",
+      "target": "Pneumonia"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "breathlessness",
+      "target": "Heart attack"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "family history",
+      "target": "Bronchial Asthma"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "family history",
+      "target": "Hepatitis C"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "mucoid sputum",
+      "target": "Bronchial Asthma"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Hypertension",
+      "target": "headache"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 7,
+      "source": "Hypertension",
+      "target": "chest pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hypertension",
+      "target": "dizziness"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hypertension",
+      "target": "loss of balance"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Hypertension",
+      "target": "lack of concentration"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hypertension",
+      "target": "meditation"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hypertension",
+      "target": "salt baths"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hypertension",
+      "target": "reduce stress"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hypertension",
+      "target": "get proper sleep"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "headache",
+      "target": "Hypertension"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "headache",
+      "target": "Migraine"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "headache",
+      "target": "Paralysis (brain hemorrhage)"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "headache",
+      "target": "Malaria"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "headache",
+      "target": "Chicken pox"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "headache",
+      "target": "Dengue"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "headache",
+      "target": "Typhoid"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "headache",
+      "target": "Common Cold"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "headache",
+      "target": "Hypoglycemia"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "headache",
+      "target": "(vertigo) Paroymsal  Positional Vertigo"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "dizziness",
+      "target": "Hypertension"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "dizziness",
+      "target": "Cervical spondylosis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "dizziness",
+      "target": "Hypothyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "loss of balance",
+      "target": "Hypertension"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "loss of balance",
+      "target": "Cervical spondylosis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "loss of balance",
+      "target": "(vertigo) Paroymsal  Positional Vertigo"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "lack of concentration",
+      "target": "Hypertension"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Migraine",
+      "target": "acidity"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Migraine",
+      "target": "indigestion"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Migraine",
+      "target": "headache"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Migraine",
+      "target": "blurred and distorted vision"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Migraine",
+      "target": "excessive hunger"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Migraine",
+      "target": "stiff neck"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Migraine",
+      "target": "depression"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Migraine",
+      "target": "irritability"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Migraine",
+      "target": "visual disturbances"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Migraine",
+      "target": "meditation"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Migraine",
+      "target": "reduce stress"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Migraine",
+      "target": "use poloroid glasses in sun"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Migraine",
+      "target": "consult doctor"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "stiff neck",
+      "target": "Migraine"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "stiff neck",
+      "target": "Arthritis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "depression",
+      "target": "Migraine"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "depression",
+      "target": "Hypothyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "irritability",
+      "target": "Migraine"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "irritability",
+      "target": "Hypothyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "irritability",
+      "target": "Hyperthyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "irritability",
+      "target": "Hypoglycemia"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "visual disturbances",
+      "target": "Migraine"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Cervical spondylosis",
+      "target": "back pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 7,
+      "source": "Cervical spondylosis",
+      "target": "weakness in limbs"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Cervical spondylosis",
+      "target": "neck pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Cervical spondylosis",
+      "target": "dizziness"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Cervical spondylosis",
+      "target": "loss of balance"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Cervical spondylosis",
+      "target": "use heating pad or cold pack"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Cervical spondylosis",
+      "target": "exercise"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Cervical spondylosis",
+      "target": "take otc pain reliver"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Cervical spondylosis",
+      "target": "consult doctor"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "back pain",
+      "target": "Cervical spondylosis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "back pain",
+      "target": "Dengue"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "weakness in limbs",
+      "target": "Cervical spondylosis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "neck pain",
+      "target": "Cervical spondylosis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "neck pain",
+      "target": "Osteoarthristis"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Paralysis (brain hemorrhage)",
+      "target": "vomiting"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Paralysis (brain hemorrhage)",
+      "target": "headache"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Paralysis (brain hemorrhage)",
+      "target": "weakness of one body side"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Paralysis (brain hemorrhage)",
+      "target": "altered sensorium"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Paralysis (brain hemorrhage)",
+      "target": "massage"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Paralysis (brain hemorrhage)",
+      "target": "eat healthy"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Paralysis (brain hemorrhage)",
+      "target": "exercise"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Paralysis (brain hemorrhage)",
+      "target": "consult doctor"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "weakness of one body side",
+      "target": "Paralysis (brain hemorrhage)"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "altered sensorium",
+      "target": "Paralysis (brain hemorrhage)"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 1,
+      "source": "Jaundice",
+      "target": "itching"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Jaundice",
+      "target": "vomiting"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Jaundice",
+      "target": "fatigue"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Jaundice",
+      "target": "weight loss"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 7,
+      "source": "Jaundice",
+      "target": "high fever"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Jaundice",
+      "target": "yellowish skin"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Jaundice",
+      "target": "dark urine"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Jaundice",
+      "target": "abdominal pain"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Jaundice",
+      "target": "drink plenty of water"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Jaundice",
+      "target": "consume milk thistle"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Jaundice",
+      "target": "eat fruits and high fiberous food"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Jaundice",
+      "target": "medication"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "dark urine",
+      "target": "Jaundice"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "dark urine",
+      "target": "hepatitis A"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "dark urine",
+      "target": "Hepatitis B"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "dark urine",
+      "target": "Hepatitis D"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "dark urine",
+      "target": "Hepatitis E"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Malaria",
+      "target": "chills"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Malaria",
+      "target": "vomiting"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 7,
+      "source": "Malaria",
+      "target": "high fever"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Malaria",
+      "target": "sweating"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Malaria",
+      "target": "headache"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Malaria",
+      "target": "nausea"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Malaria",
+      "target": "muscle pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Malaria",
+      "target": "diarrhoea"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Malaria",
+      "target": "Consult nearest hospital"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Malaria",
+      "target": "avoid oily food"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Malaria",
+      "target": "avoid non veg food"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Malaria",
+      "target": "keep mosquitos out"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "sweating",
+      "target": "Malaria"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "sweating",
+      "target": "Tuberculosis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "sweating",
+      "target": "Pneumonia"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "sweating",
+      "target": "Heart attack"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "sweating",
+      "target": "Hyperthyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "sweating",
+      "target": "Hypoglycemia"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "muscle pain",
+      "target": "Malaria"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "muscle pain",
+      "target": "Dengue"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "muscle pain",
+      "target": "hepatitis A"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "muscle pain",
+      "target": "Common Cold"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 1,
+      "source": "Chicken pox",
+      "target": "itching"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Chicken pox",
+      "target": "skin rash"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Chicken pox",
+      "target": "fatigue"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Chicken pox",
+      "target": "lethargy"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 7,
+      "source": "Chicken pox",
+      "target": "high fever"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Chicken pox",
+      "target": "headache"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Chicken pox",
+      "target": "loss of appetite"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Chicken pox",
+      "target": "mild fever"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Chicken pox",
+      "target": "swelled lymph nodes"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Chicken pox",
+      "target": "malaise"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Chicken pox",
+      "target": "red spots over body"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Chicken pox",
+      "target": "use neem in bathing"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Chicken pox",
+      "target": "consume neem leaves"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Chicken pox",
+      "target": "take vaccine"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Chicken pox",
+      "target": "avoid public places"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "mild fever",
+      "target": "Chicken pox"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "mild fever",
+      "target": "hepatitis A"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "mild fever",
+      "target": "Tuberculosis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "swelled lymph nodes",
+      "target": "Chicken pox"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "swelled lymph nodes",
+      "target": "Tuberculosis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "swelled lymph nodes",
+      "target": "Common Cold"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "malaise",
+      "target": "Chicken pox"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "malaise",
+      "target": "Dengue"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "malaise",
+      "target": "Hepatitis B"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "malaise",
+      "target": "Tuberculosis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "malaise",
+      "target": "Common Cold"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "malaise",
+      "target": "Pneumonia"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "red spots over body",
+      "target": "Chicken pox"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "red spots over body",
+      "target": "Dengue"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Dengue",
+      "target": "skin rash"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Dengue",
+      "target": "chills"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Dengue",
+      "target": "joint pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Dengue",
+      "target": "vomiting"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Dengue",
+      "target": "fatigue"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 7,
+      "source": "Dengue",
+      "target": "high fever"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Dengue",
+      "target": "headache"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Dengue",
+      "target": "nausea"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Dengue",
+      "target": "loss of appetite"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Dengue",
+      "target": "pain behind the eyes"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Dengue",
+      "target": "back pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Dengue",
+      "target": "muscle pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Dengue",
+      "target": "red spots over body"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Dengue",
+      "target": "malaise"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Dengue",
+      "target": "drink papaya leaf juice"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Dengue",
+      "target": "avoid fatty spicy food"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Dengue",
+      "target": "keep mosquitos away"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Dengue",
+      "target": "keep hydrated"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "joint pain",
+      "target": "Dengue"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "joint pain",
+      "target": "hepatitis A"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "joint pain",
+      "target": "Hepatitis D"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "joint pain",
+      "target": "Hepatitis E"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "joint pain",
+      "target": "Osteoarthristis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "joint pain",
+      "target": "Psoriasis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "pain behind the eyes",
+      "target": "Dengue"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Typhoid",
+      "target": "chills"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Typhoid",
+      "target": "vomiting"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Typhoid",
+      "target": "fatigue"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 7,
+      "source": "Typhoid",
+      "target": "high fever"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Typhoid",
+      "target": "nausea"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Typhoid",
+      "target": "constipation"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Typhoid",
+      "target": "abdominal pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Typhoid",
+      "target": "diarrhoea"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Typhoid",
+      "target": "toxic look (typhos)"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Typhoid",
+      "target": "belly pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Typhoid",
+      "target": "headache"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Typhoid",
+      "target": "eat high calorie vegitables"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Typhoid",
+      "target": "antiboitic therapy"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Typhoid",
+      "target": "consult doctor"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Typhoid",
+      "target": "medication"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "constipation",
+      "target": "Typhoid"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "constipation",
+      "target": "Dimorphic hemmorhoids(piles)"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "toxic look (typhos)",
+      "target": "Typhoid"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "belly pain",
+      "target": "Typhoid"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "hepatitis A",
+      "target": "joint pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "hepatitis A",
+      "target": "vomiting"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "hepatitis A",
+      "target": "yellowish skin"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "hepatitis A",
+      "target": "dark urine"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "hepatitis A",
+      "target": "nausea"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "hepatitis A",
+      "target": "loss of appetite"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "hepatitis A",
+      "target": "abdominal pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "hepatitis A",
+      "target": "diarrhoea"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "hepatitis A",
+      "target": "mild fever"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "hepatitis A",
+      "target": "yellowing of eyes"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "hepatitis A",
+      "target": "muscle pain"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "hepatitis A",
+      "target": "Consult nearest hospital"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "hepatitis A",
+      "target": "wash hands through"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "hepatitis A",
+      "target": "avoid fatty spicy food"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "hepatitis A",
+      "target": "medication"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 1,
+      "source": "Hepatitis B",
+      "target": "itching"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hepatitis B",
+      "target": "fatigue"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Hepatitis B",
+      "target": "lethargy"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Hepatitis B",
+      "target": "yellowish skin"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hepatitis B",
+      "target": "dark urine"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hepatitis B",
+      "target": "loss of appetite"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hepatitis B",
+      "target": "abdominal pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hepatitis B",
+      "target": "yellow urine"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hepatitis B",
+      "target": "yellowing of eyes"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Hepatitis B",
+      "target": "malaise"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Hepatitis B",
+      "target": "receiving blood transfusion"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Hepatitis B",
+      "target": "receiving unsterile injections"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hepatitis B",
+      "target": "consult nearest hospital"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hepatitis B",
+      "target": "vaccination"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hepatitis B",
+      "target": "eat healthy"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hepatitis B",
+      "target": "medication"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "yellow urine",
+      "target": "Hepatitis B"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "receiving blood transfusion",
+      "target": "Hepatitis B"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "receiving unsterile injections",
+      "target": "Hepatitis B"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hepatitis C",
+      "target": "fatigue"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Hepatitis C",
+      "target": "yellowish skin"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Hepatitis C",
+      "target": "nausea"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hepatitis C",
+      "target": "loss of appetite"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Hepatitis C",
+      "target": "family history"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hepatitis C",
+      "target": "yellowing of eyes"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hepatitis C",
+      "target": "Consult nearest hospital"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hepatitis C",
+      "target": "vaccination"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hepatitis C",
+      "target": "eat healthy"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hepatitis C",
+      "target": "medication"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Hepatitis D",
+      "target": "joint pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Hepatitis D",
+      "target": "vomiting"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hepatitis D",
+      "target": "fatigue"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Hepatitis D",
+      "target": "yellowish skin"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hepatitis D",
+      "target": "dark urine"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Hepatitis D",
+      "target": "nausea"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hepatitis D",
+      "target": "loss of appetite"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hepatitis D",
+      "target": "abdominal pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hepatitis D",
+      "target": "yellowing of eyes"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hepatitis D",
+      "target": "consult doctor"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hepatitis D",
+      "target": "medication"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hepatitis D",
+      "target": "eat healthy"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hepatitis D",
+      "target": "follow up"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Hepatitis E",
+      "target": "joint pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Hepatitis E",
+      "target": "vomiting"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hepatitis E",
+      "target": "fatigue"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 7,
+      "source": "Hepatitis E",
+      "target": "high fever"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Hepatitis E",
+      "target": "yellowish skin"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hepatitis E",
+      "target": "dark urine"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Hepatitis E",
+      "target": "nausea"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hepatitis E",
+      "target": "loss of appetite"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hepatitis E",
+      "target": "abdominal pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hepatitis E",
+      "target": "yellowing of eyes"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 7,
+      "source": "Hepatitis E",
+      "target": "coma"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Hepatitis E",
+      "target": "stomach bleeding"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Hepatitis E",
+      "target": "acute liver failure"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hepatitis E",
+      "target": "stop alcohol consumption"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hepatitis E",
+      "target": "rest"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hepatitis E",
+      "target": "consult doctor"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hepatitis E",
+      "target": "medication"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "coma",
+      "target": "Hepatitis E"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "stomach bleeding",
+      "target": "Hepatitis E"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "acute liver failure",
+      "target": "Hepatitis E"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Alcoholic hepatitis",
+      "target": "vomiting"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Alcoholic hepatitis",
+      "target": "yellowish skin"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Alcoholic hepatitis",
+      "target": "abdominal pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 7,
+      "source": "Alcoholic hepatitis",
+      "target": "swelling of stomach"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Alcoholic hepatitis",
+      "target": "distention of abdomen"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Alcoholic hepatitis",
+      "target": "history of alcohol consumption"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Alcoholic hepatitis",
+      "target": "fluid overload"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Alcoholic hepatitis",
+      "target": "stop alcohol consumption"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Alcoholic hepatitis",
+      "target": "consult doctor"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Alcoholic hepatitis",
+      "target": "medication"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Alcoholic hepatitis",
+      "target": "follow up"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "swelling of stomach",
+      "target": "Alcoholic hepatitis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "distention of abdomen",
+      "target": "Alcoholic hepatitis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "history of alcohol consumption",
+      "target": "Alcoholic hepatitis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "fluid overload",
+      "target": "Alcoholic hepatitis"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Tuberculosis",
+      "target": "chills"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Tuberculosis",
+      "target": "vomiting"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Tuberculosis",
+      "target": "fatigue"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Tuberculosis",
+      "target": "weight loss"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Tuberculosis",
+      "target": "cough"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 7,
+      "source": "Tuberculosis",
+      "target": "high fever"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Tuberculosis",
+      "target": "breathlessness"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Tuberculosis",
+      "target": "sweating"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Tuberculosis",
+      "target": "loss of appetite"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Tuberculosis",
+      "target": "mild fever"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Tuberculosis",
+      "target": "yellowing of eyes"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Tuberculosis",
+      "target": "swelled lymph nodes"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Tuberculosis",
+      "target": "malaise"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Tuberculosis",
+      "target": "phlegm"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 7,
+      "source": "Tuberculosis",
+      "target": "chest pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Tuberculosis",
+      "target": "blood in sputum"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Tuberculosis",
+      "target": "cover mouth"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Tuberculosis",
+      "target": "consult doctor"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Tuberculosis",
+      "target": "medication"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Tuberculosis",
+      "target": "rest"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "phlegm",
+      "target": "Tuberculosis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "phlegm",
+      "target": "Common Cold"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "phlegm",
+      "target": "Pneumonia"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "blood in sputum",
+      "target": "Tuberculosis"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Common Cold",
+      "target": "continuous sneezing"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Common Cold",
+      "target": "chills"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Common Cold",
+      "target": "fatigue"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Common Cold",
+      "target": "cough"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 7,
+      "source": "Common Cold",
+      "target": "high fever"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Common Cold",
+      "target": "headache"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Common Cold",
+      "target": "swelled lymph nodes"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Common Cold",
+      "target": "malaise"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Common Cold",
+      "target": "phlegm"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Common Cold",
+      "target": "throat irritation"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Common Cold",
+      "target": "redness of eyes"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Common Cold",
+      "target": "sinus pressure"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Common Cold",
+      "target": "runny nose"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Common Cold",
+      "target": "congestion"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 7,
+      "source": "Common Cold",
+      "target": "chest pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Common Cold",
+      "target": "loss of smell"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Common Cold",
+      "target": "muscle pain"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Common Cold",
+      "target": "drink vitamin c rich drinks"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Common Cold",
+      "target": "take vapour"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Common Cold",
+      "target": "avoid cold food"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Common Cold",
+      "target": "keep fever in check"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "throat irritation",
+      "target": "Common Cold"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "redness of eyes",
+      "target": "Common Cold"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "sinus pressure",
+      "target": "Common Cold"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "runny nose",
+      "target": "Common Cold"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "congestion",
+      "target": "Common Cold"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "loss of smell",
+      "target": "Common Cold"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Pneumonia",
+      "target": "chills"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Pneumonia",
+      "target": "fatigue"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Pneumonia",
+      "target": "cough"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 7,
+      "source": "Pneumonia",
+      "target": "high fever"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Pneumonia",
+      "target": "breathlessness"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Pneumonia",
+      "target": "sweating"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Pneumonia",
+      "target": "malaise"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 7,
+      "source": "Pneumonia",
+      "target": "chest pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Pneumonia",
+      "target": "fast heart rate"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Pneumonia",
+      "target": "rusty sputum"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Pneumonia",
+      "target": "phlegm"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Pneumonia",
+      "target": "consult doctor"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Pneumonia",
+      "target": "medication"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Pneumonia",
+      "target": "rest"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Pneumonia",
+      "target": "follow up"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "fast heart rate",
+      "target": "Pneumonia"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "fast heart rate",
+      "target": "Hyperthyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "rusty sputum",
+      "target": "Pneumonia"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Dimorphic hemmorhoids(piles)",
+      "target": "constipation"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Dimorphic hemmorhoids(piles)",
+      "target": "pain during bowel movements"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Dimorphic hemmorhoids(piles)",
+      "target": "pain in anal region"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Dimorphic hemmorhoids(piles)",
+      "target": "bloody stool"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Dimorphic hemmorhoids(piles)",
+      "target": "irritation in anus"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Dimorphic hemmorhoids(piles)",
+      "target": "avoid fatty spicy food"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Dimorphic hemmorhoids(piles)",
+      "target": "consume witch hazel"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Dimorphic hemmorhoids(piles)",
+      "target": "warm bath with epsom salt"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Dimorphic hemmorhoids(piles)",
+      "target": "consume alovera juice"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "pain during bowel movements",
+      "target": "Dimorphic hemmorhoids(piles)"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "pain in anal region",
+      "target": "Dimorphic hemmorhoids(piles)"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "bloody stool",
+      "target": "Dimorphic hemmorhoids(piles)"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "irritation in anus",
+      "target": "Dimorphic hemmorhoids(piles)"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Heart attack",
+      "target": "vomiting"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Heart attack",
+      "target": "breathlessness"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Heart attack",
+      "target": "sweating"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 7,
+      "source": "Heart attack",
+      "target": "chest pain"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Heart attack",
+      "target": "call ambulance"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Heart attack",
+      "target": "chew or swallow asprin"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Heart attack",
+      "target": "keep calm"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Varicose veins",
+      "target": "fatigue"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Varicose veins",
+      "target": "cramps"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Varicose veins",
+      "target": "bruising"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Varicose veins",
+      "target": "obesity"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Varicose veins",
+      "target": "swollen legs"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Varicose veins",
+      "target": "swollen blood vessels"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Varicose veins",
+      "target": "prominent veins on calf"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Varicose veins",
+      "target": "lie down flat and raise the leg high"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Varicose veins",
+      "target": "use oinments"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Varicose veins",
+      "target": "use vein compression"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Varicose veins",
+      "target": "dont stand still for long"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "cramps",
+      "target": "Varicose veins"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "bruising",
+      "target": "Varicose veins"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "swollen legs",
+      "target": "Varicose veins"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "swollen blood vessels",
+      "target": "Varicose veins"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "prominent veins on calf",
+      "target": "Varicose veins"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hypothyroidism",
+      "target": "fatigue"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Hypothyroidism",
+      "target": "weight gain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Hypothyroidism",
+      "target": "cold hands and feets"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Hypothyroidism",
+      "target": "mood swings"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Hypothyroidism",
+      "target": "lethargy"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hypothyroidism",
+      "target": "dizziness"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Hypothyroidism",
+      "target": "puffy face and eyes"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Hypothyroidism",
+      "target": "enlarged thyroid"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Hypothyroidism",
+      "target": "brittle nails"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Hypothyroidism",
+      "target": "swollen extremeties"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Hypothyroidism",
+      "target": "depression"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Hypothyroidism",
+      "target": "irritability"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Hypothyroidism",
+      "target": "abnormal menstruation"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hypothyroidism",
+      "target": "reduce stress"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hypothyroidism",
+      "target": "exercise"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hypothyroidism",
+      "target": "eat healthy"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hypothyroidism",
+      "target": "get proper sleep"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "weight gain",
+      "target": "Hypothyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "cold hands and feets",
+      "target": "Hypothyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "mood swings",
+      "target": "Hypothyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "mood swings",
+      "target": "Hyperthyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "puffy face and eyes",
+      "target": "Hypothyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "enlarged thyroid",
+      "target": "Hypothyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "brittle nails",
+      "target": "Hypothyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "swollen extremeties",
+      "target": "Hypothyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "abnormal menstruation",
+      "target": "Hypothyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "abnormal menstruation",
+      "target": "Hyperthyroidism"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hyperthyroidism",
+      "target": "fatigue"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Hyperthyroidism",
+      "target": "mood swings"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Hyperthyroidism",
+      "target": "weight loss"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Hyperthyroidism",
+      "target": "restlessness"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Hyperthyroidism",
+      "target": "sweating"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Hyperthyroidism",
+      "target": "diarrhoea"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Hyperthyroidism",
+      "target": "fast heart rate"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hyperthyroidism",
+      "target": "excessive hunger"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Hyperthyroidism",
+      "target": "muscle weakness"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Hyperthyroidism",
+      "target": "irritability"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Hyperthyroidism",
+      "target": "abnormal menstruation"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hyperthyroidism",
+      "target": "eat healthy"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hyperthyroidism",
+      "target": "massage"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hyperthyroidism",
+      "target": "use lemon balm"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hyperthyroidism",
+      "target": "take radioactive iodine treatment"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "muscle weakness",
+      "target": "Hyperthyroidism"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "muscle weakness",
+      "target": "Arthritis"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Hypoglycemia",
+      "target": "vomiting"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hypoglycemia",
+      "target": "fatigue"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hypoglycemia",
+      "target": "anxiety"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Hypoglycemia",
+      "target": "sweating"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Hypoglycemia",
+      "target": "headache"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Hypoglycemia",
+      "target": "nausea"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Hypoglycemia",
+      "target": "blurred and distorted vision"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hypoglycemia",
+      "target": "excessive hunger"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hypoglycemia",
+      "target": "slurred speech"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Hypoglycemia",
+      "target": "irritability"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hypoglycemia",
+      "target": "palpitations"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Hypoglycemia",
+      "target": "drying and tingling lips"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hypoglycemia",
+      "target": "lie down on side"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hypoglycemia",
+      "target": "check in pulse"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hypoglycemia",
+      "target": "drink sugary drinks"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Hypoglycemia",
+      "target": "consult doctor"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "anxiety",
+      "target": "Hypoglycemia"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "slurred speech",
+      "target": "Hypoglycemia"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "palpitations",
+      "target": "Hypoglycemia"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "drying and tingling lips",
+      "target": "Hypoglycemia"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Osteoarthristis",
+      "target": "joint pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Osteoarthristis",
+      "target": "neck pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Osteoarthristis",
+      "target": "knee pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Osteoarthristis",
+      "target": "hip joint pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Osteoarthristis",
+      "target": "swelling joints"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Osteoarthristis",
+      "target": "painful walking"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Osteoarthristis",
+      "target": "acetaminophen"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Osteoarthristis",
+      "target": "consult nearest hospital"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Osteoarthristis",
+      "target": "follow up"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Osteoarthristis",
+      "target": "salt baths"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "knee pain",
+      "target": "Osteoarthristis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "hip joint pain",
+      "target": "Osteoarthristis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "swelling joints",
+      "target": "Osteoarthristis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "swelling joints",
+      "target": "Arthritis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "painful walking",
+      "target": "Osteoarthristis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "painful walking",
+      "target": "Arthritis"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Arthritis",
+      "target": "muscle weakness"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Arthritis",
+      "target": "stiff neck"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Arthritis",
+      "target": "swelling joints"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "Arthritis",
+      "target": "movement stiffness"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Arthritis",
+      "target": "painful walking"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Arthritis",
+      "target": "exercise"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Arthritis",
+      "target": "use hot and cold therapy"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Arthritis",
+      "target": "try acupuncture"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Arthritis",
+      "target": "massage"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "movement stiffness",
+      "target": "Arthritis"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "(vertigo) Paroymsal  Positional Vertigo",
+      "target": "vomiting"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "(vertigo) Paroymsal  Positional Vertigo",
+      "target": "headache"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 5,
+      "source": "(vertigo) Paroymsal  Positional Vertigo",
+      "target": "nausea"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "(vertigo) Paroymsal  Positional Vertigo",
+      "target": "spinning movements"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "(vertigo) Paroymsal  Positional Vertigo",
+      "target": "loss of balance"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "(vertigo) Paroymsal  Positional Vertigo",
+      "target": "unsteadiness"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "(vertigo) Paroymsal  Positional Vertigo",
+      "target": "lie down"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "(vertigo) Paroymsal  Positional Vertigo",
+      "target": "avoid sudden change in body"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "(vertigo) Paroymsal  Positional Vertigo",
+      "target": "avoid abrupt head movment"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "(vertigo) Paroymsal  Positional Vertigo",
+      "target": "relax"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "spinning movements",
+      "target": "(vertigo) Paroymsal  Positional Vertigo"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "unsteadiness",
+      "target": "(vertigo) Paroymsal  Positional Vertigo"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Acne",
+      "target": "skin rash"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Acne",
+      "target": "pus filled pimples"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Acne",
+      "target": "blackheads"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Acne",
+      "target": "scurring"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Acne",
+      "target": "bath twice"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Acne",
+      "target": "avoid fatty spicy food"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Acne",
+      "target": "drink plenty of water"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Acne",
+      "target": "avoid too many products"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "pus filled pimples",
+      "target": "Acne"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "blackheads",
+      "target": "Acne"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "scurring",
+      "target": "Acne"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Urinary tract infection",
+      "target": "burning micturition"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Urinary tract infection",
+      "target": "bladder discomfort"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Urinary tract infection",
+      "target": "foul smell of urine"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 6,
+      "source": "Urinary tract infection",
+      "target": "continuous feel of urine"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Urinary tract infection",
+      "target": "drink plenty of water"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Urinary tract infection",
+      "target": "increase vitamin c intake"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Urinary tract infection",
+      "target": "drink cranberry juice"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Urinary tract infection",
+      "target": "take probiotics"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "bladder discomfort",
+      "target": "Urinary tract infection"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "foul smell of urine",
+      "target": "Urinary tract infection"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "continuous feel of urine",
+      "target": "Urinary tract infection"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Psoriasis",
+      "target": "skin rash"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Psoriasis",
+      "target": "joint pain"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Psoriasis",
+      "target": "skin peeling"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Psoriasis",
+      "target": "silver like dusting"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Psoriasis",
+      "target": "small dents in nails"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Psoriasis",
+      "target": "inflammatory nails"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Psoriasis",
+      "target": "wash hands with warm soapy water"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Psoriasis",
+      "target": "stop bleeding using pressure"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Psoriasis",
+      "target": "consult doctor"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Psoriasis",
+      "target": "salt baths"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "skin peeling",
+      "target": "Psoriasis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "silver like dusting",
+      "target": "Psoriasis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "small dents in nails",
+      "target": "Psoriasis"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "inflammatory nails",
+      "target": "Psoriasis"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Impetigo",
+      "target": "skin rash"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 7,
+      "source": "Impetigo",
+      "target": "high fever"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 4,
+      "source": "Impetigo",
+      "target": "blister"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 2,
+      "source": "Impetigo",
+      "target": "red sore around nose"
+    },
+    {
+      "relation": "HAS_SYMPTOM",
+      "weight": 3,
+      "source": "Impetigo",
+      "target": "yellow crust ooze"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Impetigo",
+      "target": "soak affected area in warm water"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Impetigo",
+      "target": "use antibiotics"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Impetigo",
+      "target": "remove scabs with wet compressed cloth"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Impetigo",
+      "target": "consult doctor"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "blister",
+      "target": "Impetigo"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "red sore around nose",
+      "target": "Impetigo"
+    },
+    {
+      "relation": "INDICATES",
+      "source": "yellow crust ooze",
+      "target": "Impetigo"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Disease",
+      "target": "Precaution_1"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Disease",
+      "target": "Precaution_2"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Disease",
+      "target": "Precaution_3"
+    },
+    {
+      "relation": "HAS_PRECAUTION",
+      "source": "Disease",
+      "target": "Precaution_4"
+    }
+  ]
+}
