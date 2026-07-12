@@ -2,6 +2,8 @@ Medical RAG System:
 A medical question-answering system that uses a Knowledge Graph, FAISS vector search, and Gemini AI to answer questions about diseases, symptoms, and precautions.
 
 Project Structure:
+
+```
 Medical-RAG/
 ├── src/
 │   ├── build_kg.py       # Builds the Knowledge Graph from CSV files
@@ -21,6 +23,7 @@ Medical-RAG/
 │   └── medical_kg.json   # Generated knowledge graph
 ├── output.txt            # Sample run output
 └── requirements.txt
+```
 
 --> Phase 1 (text RAG) is complete. Phase 2 (multimodal imaging with SLAKE) is in progress.
 
