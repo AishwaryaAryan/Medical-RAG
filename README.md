@@ -44,22 +44,30 @@ Your question gets embedded, top-5 matching documents are retrieved, and Gemini 
 Setup:
 
 1. Clone the repo
+```
 bashgit clone https://github.com/AishwaryaAryan/Medical-RAG.git
 cd Medical-RAG
+```
 
-2. Install dependencies
+3. Install dependencies
+```
 bashpip install sentence-transformers faiss-cpu google-genai python-dotenv networkx pandas numpy
-
-3. Add your Gemini API key
+```
+5. Add your Gemini API key
+```
 Create a .env file:
 GEMINI_API_KEY=your_key_here
+```
 
-4. Build the Knowledge Graph
+7. Build the Knowledge Graph
+```
 bashpython src/build_kg.py
+```
 
-5. Run the RAG system
+9. Run the RAG system
+```
 bashpython src/rag.py
-
+```
 
 Example Output:
 Q: What are the symptoms of diabetes?
