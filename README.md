@@ -10,7 +10,7 @@ Medical-RAG/
 │   ├── dataset.csv                # Disease → Symptom mappings
 │   ├── symptom_Description.csv    # Disease descriptions
 │   ├── symptom_precaution.csv     # Precautions per disease
-│   └── Symptom-severity.csv       # Severity scores (1–7) per symptom
+│   └── Symptom-severity.csv       # Severity scores (1-7) per symptom
 ├── datasets/
 │   └── SLAKE/                     # Medical imaging dataset (Phase 2)
 │       ├── imgs/                  # CT, MRI, X-Ray scans
