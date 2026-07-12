@@ -1,0 +1,137 @@
+=======================================================
+  RAG SYSTEM READY — Testing Questions
+=======================================================
+
+Q: What are the symptoms of diabetes?
+--------------------------------------------------
+[Source 1]
+Disease: Diabetes
+Description: Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy.
+Symptoms: fatigue (severity 4), weight loss (severity 3), restlessness (severity 5), lethargy (severity 2), irregular sugar level (severity 5), blurred and distorted vision (severity 5), obesity (severity 4), excessive hunger (severity 4), increased appetite (severity 5), polyuria (severity 4)
+Precautions: have balanced diet; exercise; consult doctor; follow up
+
+
+---
+
+[Source 2]
+Symptom: irregular sugar level
+Severity: 5 out of 7
+Diseases with this symptom: Diabetes
+
+
+---
+
+[Source 3]
+Disease: Hypoglycemia
+Description:  Hypoglycemia is a condition in which your blood sugar (glucose) level is lower than normal. Glucose is your body's main energy source. Hypoglycemia is often related to diabetes treatment. But other drugs and a variety of conditions — many rare — can cause low blood sugar in people who don't have diabetes.
+Symptoms: vomiting (severity 5), fatigue (severity 4), anxiety (severity 4), sweating (severity 3), headache (severity 3), nausea (severity 5), blurred and distorted vision (severity 5), excessive hunger (severity 4), slurred speech (severity 4), irritability (severity 2), palpitations (severity 4), drying and tingling lips (severity 4)
+Precautions: lie down on side; check in pulse; drink sugary drinks; consult doctor
+
+
+---
+
+[Source 4]
+Symptom: polyuria
+Severity: 4 out of 7
+Diseases with this symptom: Diabetes
+
+
+---
+
+[Source 5]
+Symptom: excessive hunger
+Severity: 4 out of 7
+Diseases with this symptom: Diabetes, Migraine, Hyperthyroidism, Hypoglycemia
+
+
+Sources: ['Diabetes', 'symptom_irregular sugar level', 'Hypoglycemia', 'symptom_polyuria', 'symptom_excessive hunger']
+=======================================================
+
+Q: Which diseases cause fever and fatigue?
+--------------------------------------------------
+[Source 1]
+Symptom: fatigue
+Severity: 4 out of 7
+Diseases with this symptom: Diabetes, Bronchial Asthma, Jaundice, Chicken pox, Dengue, Typhoid, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Tuberculosis, Common Cold, Pneumonia, Varicose veins, Hypothyroidism, Hyperthyroidism, Hypoglycemia
+
+
+---
+
+[Source 2]
+Symptom: high fever
+Severity: 7 out of 7
+Diseases with this symptom: AIDS, Bronchial Asthma, Jaundice, Malaria, Chicken pox, Dengue, Typhoid, Hepatitis E, Tuberculosis, Common Cold, Pneumonia, Impetigo
+
+
+---
+
+[Source 3]
+Symptom: muscle pain
+Severity: 2 out of 7
+Diseases with this symptom: Malaria, Dengue, hepatitis A, Common Cold
+
+
+---
+
+[Source 4]
+Symptom: mild fever
+Severity: 5 out of 7
+Diseases with this symptom: Chicken pox, hepatitis A, Tuberculosis
+
+
+---
+
+[Source 5]
+Symptom: sweating
+Severity: 3 out of 7
+Diseases with this symptom: Malaria, Tuberculosis, Pneumonia, Heart attack, Hyperthyroidism, Hypoglycemia
+
+
+Sources: ['symptom_fatigue', 'symptom_high fever', 'symptom_muscle pain', 'symptom_mild fever', 'symptom_sweating']
+=======================================================
+
+Q: What precautions should I take for hypertension?
+--------------------------------------------------
+[Source 1]
+Symptom: lack of concentration
+Severity: 3 out of 7
+Diseases with this symptom: Hypertension
+
+
+---
+
+[Source 2]
+Disease: Hypertension
+Description: Hypertension (HTN or HT), also known as high blood pressure (HBP), is a long-term medical condition in which the blood pressure in the arteries is persistently elevated. High blood pressure typically does not cause symptoms.
+Symptoms: headache (severity 3), chest pain (severity 7), dizziness (severity 4), loss of balance (severity 4), lack of concentration (severity 3)
+Precautions: meditation; salt baths; reduce stress; get proper sleep
+
+
+---
+
+[Source 3]
+Symptom: dizziness
+Severity: 4 out of 7
+Diseases with this symptom: Hypertension, Cervical spondylosis, Hypothyroidism
+
+
+---
+
+[Source 4]
+Disease: Heart attack
+Description: The death of heart muscle due to the loss of blood supply. The loss of blood supply is usually caused by a complete blockage of a coronary artery, one of the arteries that supplies blood to the heart muscle.
+Symptoms: vomiting (severity 5), breathlessness (severity 4), sweating (severity 3), chest pain (severity 7)
+Precautions: call ambulance; chew or swallow asprin; keep calm
+
+
+---
+
+[Source 5]
+Disease: Hyperthyroidism
+Description: Hyperthyroidism (overactive thyroid) occurs when your thyroid gland produces too much of the hormone thyroxine. Hyperthyroidism can accelerate your body's metabolism, causing unintentional weight loss and a rapid or irregular heartbeat.
+Symptoms: fatigue (severity 4), mood swings (severity 3), weight loss (severity 3), restlessness (severity 5), sweating (severity 3), diarrhoea (severity 6), fast heart rate (severity 5), excessive hunger (severity 4), muscle weakness (severity 2), irritability (severity 2), abnormal menstruation (severity 6)
+Precautions: eat healthy; massage; use lemon balm; take radioactive iodine treatment
+
+
+Sources: ['symptom_lack of concentration', 'Hypertension', 'symptom_dizziness', 'Heart attack', 'Hyperthyroidism']
+=======================================================
